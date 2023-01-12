@@ -83,6 +83,8 @@ We are learning Substrate and have explored the tools specified in the RFP. We h
 - **Estimated duration:** 2 weeks
 - **FTE:**  1
 - **Costs:** 5000 DAI
+
+
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1.  | **Solidity(native and WASM) Smart Contract: Basic Read & Write** | We will create some solidity smart contracts which expose simple methods for writing to storage and reading from on-chain storage.|
