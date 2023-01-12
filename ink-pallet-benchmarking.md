@@ -8,7 +8,6 @@
 Proposal for the RFP titled [ink!/pallet/solidity performance benchmarking](https://github.com/w3f/Grants-Program/blob/master/docs/RFPs/Open/implementation-benchmarking.md).
 
 ### Overview
-
 There are multiple ways to implement the logic in substrate i.e using pallets or ink smart contracts, or even writing solidity code and compiling it to WASM with the help of a solang compiler. We have to benchmark the performance metrics of the logic implemented using each of the above methods. This will help new developers to decide the best tool to implement the logic.
 
 ### Project Details
@@ -40,14 +39,14 @@ We will use following tools to benchmark the ink smart contract/pallet:
 We are learning Substrate and have explored the tools specified in the RFP. We have also come up with a high-level implementation plan and will start implementing it soon. 
 
 ## Development Roadmap :
-Create a unified framework to work with both, Substrate Runtime Benchmarking Framework and Smart-bench
-Test it with existing pallets
-Create new pallets for benchmarking
-Test it with the new pallets
-Create new Ink smart contracts for benchmarking
-Test it with the new Ink contracts
-Create new Solidity smart contracts for benchmarking
-Adapt the framework to work with the above smart contracts
+- Create a unified framework to work with both, Substrate Runtime Benchmarking Framework and Smart-bench
+- Test it with existing pallets
+- Create new pallets for benchmarking
+- Test it with the new pallets
+- Create new Ink smart contracts for benchmarking
+- Test it with the new Ink contracts
+- Create new Solidity smart contracts for benchmarking
+- Adapt the framework to work with the above smart contracts
 
 ### Overview
 - **Total Estimated Duration:** 4 weeks
