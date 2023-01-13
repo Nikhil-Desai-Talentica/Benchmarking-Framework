@@ -17,7 +17,10 @@ We will use following tools to benchmark the ink smart contract/pallet:
 - Pallet - [Substrate Runtime Benchmarking Framework](https://github.com/paritytech/substrate/tree/master/frame/benchmarking)
 
 ### Team Members
+- Debasish Ray Chawdhuri - Blockchain and Cryptography Researcher
+- Pankaj Mendki -Blockchain expert
 - Nikhil Desai - Blockchain Developer https://github.com/Nikhil-Desai-Talentica
+- Amit Singh - Blockchain Developer https://github.com/iamit-singh
 
 ### Contact
 - **Contact Name:** Nikhil Desai
@@ -33,10 +36,13 @@ We will use following tools to benchmark the ink smart contract/pallet:
 - [simpleblockchain](https://github.com/Talentica/simpleblockchain)
 
 ### Team LinkedIn Profiles (if available)
+- Debasish Ray Chawdhuri - https://www.linkedin.com/in/debasish-ray-chawdhuri-4b444316/
+- Pankaj Mendki - https://www.linkedin.com/in/pankaj-mendki-8576363/
 - Nikhil Desai - https://www.linkedin.com/in/nikhil-desai-1209a38b/
+- Amit Singh - https://www.linkedin.com/in/amit-singh-3637a898/
 
 ## Development Status :
-We are learning Substrate and have explored the tools specified in the RFP. We have also come up with a high-level implementation plan and will start implementing it soon. 
+We have explored the tools specified in the RFP. We have also come up with a high-level implementation plan and will start implementing it soon. 
 
 ## Development Roadmap :
 
