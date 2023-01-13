@@ -39,15 +39,19 @@ We will use following tools to benchmark the ink smart contract/pallet:
 We are learning Substrate and have explored the tools specified in the RFP. We have also come up with a high-level implementation plan and will start implementing it soon. 
 
 ## Development Roadmap :
-- Create a unified framework to work with both, Substrate Runtime Benchmarking Framework and Smart-bench
-- Test it with existing pallets
-- Create new pallets for benchmarking (Milestone 1, Deliverable 2)
-- Test it with the new pallets (Milestone 1, Deliverable 2)
-- Create new Ink smart contracts for benchmarking (Milestone 1, Deliverable 3)
-- Test it with the new Ink smart contracts (Milestone 1, Deliverable 3)
-- Create new Solidity smart contracts for benchmarking (Milestone 2, Deliverable 1)
-- Test it with the new Solidity smart contracts (Milestone 2, Deliverable 1)
-- Adapt the framework to work with the above smart contracts (Milestone 2, Deliverable 2)
+
+| Objective | Deliverable | Time Estimate |
+| -----: | ----------- | ------------- |
+| Create a unified framework to work with both, Substrate Runtime Benchmarking Framework and Smart-bench | Milestone 1, Deliverable 4 | 3 days |
+| Test it with existing pallets | Milestone 1, Deliverable 4 | 2 days |
+| Create new pallets for benchmarking | Milestone 1, Deliverable 2 | 3 days |
+| Test it with the new pallets | Milestone 1, Deliverable 2 | 2 days |
+| Create new Ink smart contracts for benchmarking | Milestone 1, Deliverable 3 | 3 days |
+| Test it with the new Ink smart contracts | Milestone 1, Deliverable 3 | 2 days |
+| Adapt Smart Bench to work with arbitrary Solidity smart contracts | Milestone 1, Deliverable 4 | 1 week |
+| Create new Solidity smart contracts for benchmarking | Milestone 2, Deliverable 1 | 3 days |
+| Test it with the new Solidity smart contracts | Milestone 2, Deliverable 1 | 2 days |
+| Adapt the framework to work with the above smart contracts | Milestone 2, Deliverable 2 | 1 Week |
 
 ### Overview
 - **Total Estimated Duration:** 6 weeks
