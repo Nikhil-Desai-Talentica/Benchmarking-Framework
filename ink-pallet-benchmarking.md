@@ -40,18 +40,18 @@ We are learning Substrate and have explored the tools specified in the RFP. We h
 
 ## Development Roadmap :
 
-| Objective | Deliverable | Time Estimate |
-| -----: | ----------- | ------------- |
-| Create a unified framework to work with both, Substrate Runtime Benchmarking Framework and Smart-bench | Milestone 1, Deliverable 4 | 3 days |
-| Test it with existing pallets | Milestone 1, Deliverable 4 | 2 days |
-| Create new pallets for benchmarking | Milestone 1, Deliverable 2 | 3 days |
-| Test it with the new pallets | Milestone 1, Deliverable 2 | 2 days |
-| Create new Ink smart contracts for benchmarking | Milestone 1, Deliverable 3 | 3 days |
-| Test it with the new Ink smart contracts | Milestone 1, Deliverable 3 | 2 days |
-| Adapt Smart Bench to work with arbitrary Solidity smart contracts | Milestone 1, Deliverable 4 | 1 week |
-| Create new Solidity smart contracts for benchmarking | Milestone 2, Deliverable 1 | 3 days |
-| Test it with the new Solidity smart contracts | Milestone 2, Deliverable 1 | 2 days |
-| Adapt the framework to work with the above smart contracts | Milestone 2, Deliverable 2 | 1 Week |
+| Number | Objective | Deliverable | Time Estimate |
+| -----: | ----------- | ------------- | ----------- |
+| 1. | Create a unified framework to work with both, Substrate Runtime Benchmarking Framework and Smart-bench | Milestone 1, Deliverable 4 | 3 days |
+| 2. | Test it with existing pallets | Milestone 1, Deliverable 4 | 2 days |
+| 3. | Create new pallets for benchmarking | Milestone 1, Deliverable 2 | 3 days |
+| 4. | Test it with the new pallets | Milestone 1, Deliverable 2 | 2 days |
+| 5. | Create new Ink smart contracts for benchmarking | Milestone 1, Deliverable 3 | 3 days |
+| 6. | Test it with the new Ink smart contracts | Milestone 1, Deliverable 3 | 2 days |
+| 7. | Adapt Smart Bench to work with arbitrary Solidity smart contracts | Milestone 1, Deliverable 4 | 1 week |
+| 8. | Create new Solidity smart contracts for benchmarking | Milestone 2, Deliverable 1 | 3 days |
+| 9. | Test it with the new Solidity smart contracts | Milestone 2, Deliverable 1 | 2 days |
+| 10. | Adapt the framework to work with the above smart contracts | Milestone 2, Deliverable 2 | 1 Week |
 
 ### Overview
 - **Total Estimated Duration:** 6 weeks
