@@ -41,15 +41,16 @@ We are learning Substrate and have explored the tools specified in the RFP. We h
 ## Development Roadmap :
 - Create a unified framework to work with both, Substrate Runtime Benchmarking Framework and Smart-bench
 - Test it with existing pallets
-- Create new pallets for benchmarking
-- Test it with the new pallets
-- Create new Ink smart contracts for benchmarking
-- Test it with the new Ink contracts
-- Create new Solidity smart contracts for benchmarking
-- Adapt the framework to work with the above smart contracts
+- Create new pallets for benchmarking (Milestone 1, Deliverable 2)
+- Test it with the new pallets (Milestone 1, Deliverable 2)
+- Create new Ink smart contracts for benchmarking (Milestone 1, Deliverable 3)
+- Test it with the new Ink smart contracts (Milestone 1, Deliverable 3)
+- Create new Solidity smart contracts for benchmarking (Milestone 2, Deliverable 1)
+- Test it with the new Solidity smart contracts (Milestone 2, Deliverable 1)
+- Adapt the framework to work with the above smart contracts (Milestone 2, Deliverable 2)
 
 ### Overview
-- **Total Estimated Duration:** 4 weeks
+- **Total Estimated Duration:** 6 weeks
 - **Full-Time Equivalent (FTE):**  1 
 - **Total Costs:** 10,000 DAI
 
@@ -61,7 +62,7 @@ We are learning Substrate and have explored the tools specified in the RFP. We h
 
 
 ### Milestone 1 — Basic benchmarking
-- **Estimated duration:** 2 weeks
+- **Estimated duration:** 3 weeks
 - **FTE:** 1
 - **Costs:** 5000 DAI
 
@@ -80,7 +81,7 @@ We are learning Substrate and have explored the tools specified in the RFP. We h
 
 
 ### Milestone 2 — Integrate native solidity & solang-compiled solidity
-- **Estimated duration:** 2 weeks
+- **Estimated duration:** 3 weeks
 - **FTE:**  1
 - **Costs:** 5000 DAI
 
